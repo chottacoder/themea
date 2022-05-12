@@ -1,6 +1,6 @@
 var posts = [
     {
-      name: "hello",
+      name: "hello amit",
       about: "Use VPN",
       src: "https://www.google.com/logos/doodles/2022/mazisi-kunenes-92nd-birthday-6753651837109407.2-2x.png",
       link: "mega.nz/folder/mlk0XYxB#J7gzSQ8HbHaB4XdG7mWSSQ"
