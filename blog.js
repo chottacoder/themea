@@ -6,6 +6,12 @@ var posts = [
       link: "mega.nz/folder/mlk0XYxB#J7gzSQ8HbHaB4XdG7mWSSQ"
     },
     {
+      name: "meri gun hai ye",
+      about: "Use VPN",
+      src: "https://i.ibb.co/dDTs0s1/Screenshot-2022-0512-151934.png",
+      link: "mega.nz/folder/mlk0XYxB#J7gzSQ8HbHaB4XdG7mWSSQ"
+    },
+    {
       name: "Mixed video collection ♥️",
       about: "Total Size : 200mb",
       src: "https://i.ibb.co/7pQNZ6F/6298487055193321581-121.jpg",
