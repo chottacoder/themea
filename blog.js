@@ -1,8 +1,8 @@
 var posts = [
     {
-      name: "meri gun hai ye",
+      name: "hello",
       about: "Use VPN",
-      src: "https://i.ibb.co/dDTs0s1/Screenshot-2022-0512-151934.png",
+      src: "https://www.google.com/logos/doodles/2022/mazisi-kunenes-92nd-birthday-6753651837109407.2-2x.png",
       link: "mega.nz/folder/mlk0XYxB#J7gzSQ8HbHaB4XdG7mWSSQ"
     },
     {
